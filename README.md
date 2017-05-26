@@ -6,3 +6,15 @@ npm install
 
 ### Starting dev server
 webpack-dev-server --content-base ./src/build
+
+### Day 2
+#### Grid 
+main container
+#### GridRow
+this container will render row
+#### GridCell
+utilize this to render the cell
+#### GridHeaderRow
+this will render the column header
+#### GridHeaderCell
+will be use for column cell rendering

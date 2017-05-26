@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/vkhambalkar/react-table-build.git"
   },
-  "author": "",
+  "author": "Vijay Khambalkar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vkhambalkar/react-table-build/issues"
@@ -22,9 +22,11 @@
     "babel-loader": "^7.0.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "webpack": "^2.6.0",
+    "webpack": "^2.5.1",
     "webpack-dev-server": "^2.4.5"
   }
 }
