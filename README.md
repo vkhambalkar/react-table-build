@@ -18,3 +18,6 @@ utilize this to render the cell
 this will render the column header
 #### GridHeaderCell
 will be use for column cell rendering
+
+#### GridCore, GridSortUtil, GridDataService 
+These classes added to keep data management and presentation layer separate
