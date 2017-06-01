@@ -4,7 +4,8 @@
   "description": "This is personal project for learning purpose. I will strongly discourage anyone to use this in their project.\r I will be adding small feature set to have grid like component with React mostly for exploring and learning",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server  --port 5555 --content-base ./src/build/"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
     "babel-preset-react": "^6.24.1",
     "express": "^4.15.2",
     "lodash": "^4.17.4",
+    "moment": "^2.18.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "webpack": "^2.5.1",
